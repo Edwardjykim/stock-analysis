@@ -14,4 +14,8 @@ Refactoring could make code run with alot larger dataset, faster, and efficient.
 ## Results
 
 ### Analysis
+After Refactore code, execution times of the original script and the refactored script clearly different.
 
+
+![code_1](https://user-images.githubusercontent.com/111443997/188942029-26d5e7d4-23a1-4b78-bc5d-60dfb36c5c96.png)
+![code_2](https://user-images.githubusercontent.com/111443997/188942037-dde04f56-cff3-4e04-b57f-c50347efbfb8.png)
